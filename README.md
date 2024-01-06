@@ -1,5 +1,7 @@
 # Cacho - Juego de Dados en C++
 
+![Logo](Media/logo.png)
+
 ## Descripción
 Cacho es un juego boliviano de dados, este proyecto lo simula en C++. El juego se ejecuta en la terminal y permite a dos jugadores competir lanzando dados para obtener la mejor puntuación.
 
