@@ -18,8 +18,13 @@ Cacho es un juego boliviano de dados, este proyecto lo simula en C++. El juego s
 ## Dependencias
 El juego utiliza las bibliotecas estándar de C++ y puede requerir ajustes según el entorno de desarrollo.
 
-## Contribuciones
-Siéntete libre de contribuir al proyecto. Puedes hacerlo mediante la apertura de problemas (issues) o enviando solicitudes de extracción (pull requests).
+## Imagenes
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="Media/juego.png" alt="Juego" style="width: 48%;">
+    <img src="Media/Creditos.png" alt="Creditos" style="width: 48%;">
+</div>
+
+
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
